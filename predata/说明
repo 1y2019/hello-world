@@ -1,0 +1,11 @@
+1.connMySqldb.py    #Python-MySQL创建数据库连接操作
+2.createTable.py    #创建表
+3.getHtml.py        #抓取网页图片
+4.getHtml1.py       #抓取知乎网页图片
+5.stock_all.py      #TuShare获取股票数据行
+
+
+
+
+
+
